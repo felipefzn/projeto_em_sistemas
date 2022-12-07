@@ -1,2 +1,5 @@
-# projeto_em_sistemas
- Projeto Mobile Segundo Semestre
+# Projeto em Sistemas
+ Aplicativo Mobile "FITMAX", feito para academias e treinos!
+ 
+ aplicativo localizado em: 
+ 
